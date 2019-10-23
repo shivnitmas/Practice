@@ -1,0 +1,3 @@
+def food():
+  print("ice cream")
+  print("cold drink")
